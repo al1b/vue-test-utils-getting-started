@@ -1,5 +1,7 @@
 # Getting started with `vue-test-utils`
 
+This repo is created for showing people how they can surpress warning messages in tests. 
+
 ## Setup
 
 ``` bash

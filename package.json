@@ -2,15 +2,15 @@
   "name": "vue-test-utils-getting-started",
   "version": "1.0.0",
   "dependencies": {
-    "vue": "^2.4.4"
+    "vue": "^2.6.10"
   },
   "devDependencies": {
-    "@vue/test-utils": "^1.0.0-beta.13",
+    "@vue/test-utils": "^1.0.0-beta.29",
     "babel-jest": "^21.2.0",
-    "babel-preset-env": "^1.6.0",
-    "jest": "^21.2.1",
-    "regenerator-runtime": "^0.11.0",
-    "vue-template-compiler": "^2.4.4"
+    "babel-preset-env": "^1.7.0",
+    "jest": "^24.8.0",
+    "regenerator-runtime": "^0.11.1",
+    "vue-template-compiler": "^2.6.10"
   },
   "scripts": {
     "test": "jest"
